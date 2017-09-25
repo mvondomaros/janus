@@ -1,5 +1,5 @@
 ### janus
-Codes and scripts used to generate data for JCPC 117 (2013), 4561.
+Codes and scripts used to generate data for JPCC 117 (2013), 4561.
 
 **ave_costheta_z**
 Calculates the average of cos(theta) within non-overlapping slabs in z-direction.
